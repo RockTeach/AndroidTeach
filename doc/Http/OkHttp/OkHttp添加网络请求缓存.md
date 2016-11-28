@@ -156,7 +156,7 @@ Retrofit retrofit = new Retrofit.Builder()
             }
         });
 </pre>
-- 如果我们想做的只能一些，我们可以在对Cache-Control进行赋值的时候，根据网络状态去赋不同的值
+- 如果我们想做的智能一些，我们可以在对Cache-Control进行赋值的时候，根据网络状态去赋不同的值
 <code>
 NetWorkUtil.isNetConnected(this) ? "max-age=6" : "only-if-cached, max-stale=" + 60 * 60 * 24 * 2;
 </code>
