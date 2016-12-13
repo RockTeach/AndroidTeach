@@ -9,3 +9,7 @@ TextView在Android是一个使用非常频繁的控件，但是你真的把它�
 
 ### SpannableString ###
 >* CharSequence的一个实现类
+
+### SpannableStringBuilder ###  
+>* CharSequence的一个实现类
+>* 和StringBuilder用起来有些类似
