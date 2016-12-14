@@ -94,8 +94,8 @@
   - <code>
       ComposeShader(Shader shaderA, Shader shaderB, Xfermode mode)
   </code>
-    - shaderA
-    - shaderB
+    - shaderA PorterDuff.Mode中的dst
+    - shaderB PorterDuff.Mode中的src
     - Xfermode 这个这里先简单的说一下，就是绘制两次，绘制的两个图样到底是如何处理的，是取交，取并，A覆盖B还是B覆盖A等等
   - <code>
       ComposeShader(Shader shaderA, Shader shaderB, PorterDuff.Mode mode)
