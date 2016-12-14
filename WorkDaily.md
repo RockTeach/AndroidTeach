@@ -1,6 +1,9 @@
 # WorkDaily #
 <p><q>学而时习之，不亦说乎。</q>从事教学工作也有近一年半了，由于教学的限制，一些不是很常用或不容易一下讲明白的知识点长时间不使用，连自己也有些淡忘了，今天突然来感觉，决定写一些干货来记录分享给大家，但是突然又感觉无从写起，就从最近教学的知识点写起吧，毕竟咱是个很随性的人</p>
 
+# 2016-12-14
+>* <a href="https://github.com/RockTeach/AndroidTeach/blob/master/doc/CustomView/Paint/Shader.md">自定义View中的高级绘制，渲染器Shader</a>
+
 # 2016-12-13
 >* <a href="https://github.com/RockTeach/AndroidTeach/tree/master/doc/TextView">SpannableString，神奇的字符序列CharSequence</a>
 
