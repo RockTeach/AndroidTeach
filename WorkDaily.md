@@ -3,6 +3,7 @@
 
 # 2016-12-15
 >* <a href="https://github.com/RockTeach/GoogleCode">同步Android　Development目录，应用开发者使用的所有工具</a>
+>* <a href="https://github.com/RockTeach/AndroidTeach/blob/master/doc/CustomView/Paint/Xfermode.md">Xfermode图像混合模式</a>
 
 # 2016-12-14
 >* <a href="https://github.com/RockTeach/AndroidTeach/blob/master/doc/CustomView/Paint/Shader.md">自定义View中的高级绘制，渲染器Shader</a>
