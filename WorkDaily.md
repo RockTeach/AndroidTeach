@@ -1,6 +1,10 @@
 # WorkDaily #
 <p><q>学而时习之，不亦说乎。</q>从事教学工作也有近一年半了，由于教学的限制，一些不是很常用或不容易一下讲明白的知识点长时间不使用，连自己也有些淡忘了，今天突然来感觉，决定写一些干货来记录分享给大家，但是突然又感觉无从写起，就从最近教学的知识点写起吧，毕竟咱是个很随性的人</p>
 
+
+# 2017-2-12
+>* <a href="https://github.com/RockTeach/DynamicTab">DynamicTab 动态管理Tab，带动画效果</a>
+
 # 2016-12-15
 >* <a href="https://github.com/RockTeach/GoogleCode">同步Android　Development目录，应用开发者使用的所有工具</a>
 >* <a href="https://github.com/RockTeach/AndroidTeach/blob/master/doc/CustomView/Paint/Xfermode.md">Xfermode图像混合模式</a>
