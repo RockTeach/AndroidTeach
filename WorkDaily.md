@@ -19,5 +19,5 @@
 >* 生病一周，险些死掉，终于又可以开心的撸代码了
 >* 使用RxJava + Retrofit + MVP来撸一个简单的小项目 <a href="https://github.com/RockTeach/VMovie">VMovie</a>
 
-# 2016-11-28#
+# 2016-11-28
 >* <a href="https://github.com/RockTeach/AndroidTeach/tree/master/doc/Http/OkHttp">OkHttp 的请求缓存</a>
