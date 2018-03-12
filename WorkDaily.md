@@ -16,7 +16,6 @@
 >* <a href="https://github.com/RockTeach/AndroidTeach/tree/master/doc/TextView">SpannableString，神奇的字符序列CharSequence</a>
 
 # 2016-12-6
->* 生病一周，险些死掉，终于又可以开心的撸代码了
 >* 使用RxJava + Retrofit + MVP来撸一个简单的小项目 <a href="https://github.com/RockTeach/VMovie">VMovie</a>
 
 # 2016-11-28
